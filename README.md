@@ -1,2 +1,2 @@
-# Demo
-This is my demo project
+# React Project
+Creatting a simple website using ReactJS 
